@@ -1,11 +1,20 @@
 # Dr. Fahmid Al Farid — Academic Research Hub
 
-Faculty Lecturer (Assistant Professor), Faculty of Computer Science & Informatics, Berlin School of Business & Innovation (BSBI), Berlin, Germany.
+Faculty Lecturer (Assistant Professor), Faculty of Computer Science & Informatics, Berlin School of Business & Innovation (BSBI), Berlin, Germany (through November 2026). Research Director & Principal Investigator, Applied Perception (emerging independent research initiative), Berlin.
 
 **Research:** Computer Vision · Deep Learning · Medical AI · Explainable AI · Federated Learning · Smart Farming · Robotics · Intelligent Systems
 
 ## 🌐 Academic website
 **https://drfahmidalfarid.github.io/**
+
+## 📄 Academic CV
+
+- [Updated online academic CV (11 November 2026)](cv.html) — printable and searchable.
+- Full detailed CV (Word and PDF) maintained separately; the September 2026 PDF in `cv/` is archived and should not be presented as the current version.
+
+## 🧾 Patent & intellectual property
+
+- **Smart Assembly and Method for Unlimited Power Generation Using Series of Rotatable Members** — published patent application; co-inventor Fahmid Al Farid. [Canadian publication CA3153385A1](https://patents.google.com/patent/CA3153385A1/en); related WO2021045608A1.
 
 ## 💻 Code, datasets & reproducibility
 A curated, continuously maintained index of public resources associated with my publications:
@@ -34,6 +43,7 @@ The index currently includes publication-linked resources for:
 
 ## 📬 Contact
 - BSBI: fahmid.alfarid@berlinsbi.com
+- Research: fahmid@appliedperception.de
 - Gmail: fahmid.farid@gmail.com
 
 ---
